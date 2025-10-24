@@ -6,3 +6,14 @@
 1.4 How to Install and use Pandas </br>
 1.5 Prerequisite to Learn Pandas </br>
 1.6 Outline of this Course </br>
+
+## 02. Series
+2.1 Creating a Series
+2.2 Updating a Series
+2.3 Accessing a Series
+2.4 Series Operations
+
+## 03. DataFrames
+3.1 Creating a DataFrames
+3.2 Updating a DataFrames
+3.3 Diffenr Way to Create DataFrames
