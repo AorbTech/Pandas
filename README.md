@@ -16,4 +16,4 @@
 ## 03. DataFrames
 3.1 Creating a DataFrames</br>
 3.2 Updating a DataFrames</br>
-3.3 Diffenr Way to Create DataFrames</br>
+3.3 Different Way to Create DataFrames</br>
