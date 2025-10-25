@@ -1,0 +1,13 @@
+first_name,surname,sex,email,role,salary
+John,Smith,M,john.smith@company.com,Manager,62000
+Emily,Jones,F,emily.jones@company.com,Data Analyst,52000
+Michael,Brown,M,michael.brown@company.com,Software Engineer,58000
+Sarah,Wilson,F,sarah.wilson@company.com,HR Specialist,47000
+David,Johnson,M,david.johnson@company.com,Sales Executive,54000
+Anna,Garcia,F,anna.garcia@company.com,Marketing Coordinator,49000
+James,Miller,M,james.miller@company.com,Technician,43000
+Laura,Martinez,F,laura.martinez@company.com,Product Designer,56000
+Robert,Davis,M,robert.davis@company.com,Accountant,51000
+Sophia,Lopez,F,sophia.lopez@company.com,Customer Support,40000
+Daniel,Taylor,M,daniel.taylor@company.com,IT Support,45000
+Olivia,Clark,F,olivia.clark@company.com,Project Assistant,42000

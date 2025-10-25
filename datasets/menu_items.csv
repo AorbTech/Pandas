@@ -1,0 +1,13 @@
+name,cost_to_produce,cost_to_customer,category
+Cheeseburger,1.25,4.99,food
+Fries,0.60,2.49,food
+Chicken Nuggets (6pc),1.10,3.99,food
+Soft Drink (Medium),0.25,1.89,drink
+Milkshake,0.90,3.49,drink
+Ice Cream Sundae,0.80,2.99,dessert
+Ketchup Packet,0.02,0.10,condiment
+BBQ Sauce Cup,0.05,0.25,condiment
+Apple Pie,0.70,2.59,dessert
+Veggie Wrap,1.50,5.49,food
+Bottled Water,0.20,1.49,drink
+Chicken Sandwich,1.40,4.79,food

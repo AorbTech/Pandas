@@ -1,0 +1,13 @@
+rank,name,director,length,avg_rating,no_ratings
+1,The Shawshank Redemption,Frank Darabont,2h 22m,9.3,3100000
+2,The Godfather,Francis Ford Coppola,2h 55m,9.2,2200000
+3,The Dark Knight,Christopher Nolan,2h 32m,9.1,3100000
+4,The Godfather Part II,Francis Ford Coppola,3h 22m,9.0,1500000
+5,12 Angry Men,Sidney Lumet,1h 36m,9.0,953000
+6,The Lord of the Rings: The Return of the King,Peter Jackson,3h 21m,9.0,2100000
+7,Schindler's List,Steven Spielberg,3h 15m,9.0,1600000
+8,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,2h 58m,8.9,2100000
+9,Pulp Fiction,Quentin Tarantino,2h 34m,8.8,2400000
+10,The Good the Bad and the Ugly,Sergio Leone,2h 28m,8.8,871000
+11,Forrest Gump,Robert Zemeckis,2h 22m,8.8,2400000
+12,The Lord of the Rings: The Two Towers,Peter Jackson,2h 59m,8.8,1900000
