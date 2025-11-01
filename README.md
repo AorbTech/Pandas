@@ -24,10 +24,17 @@
 4.3 Properties </br>
 4.4 Parameters and Functions </br>
 
-## 05. Handle Missing Values
+## 05. Handling Missing Values
 5.1 na_values </br>
 5.2 keep_default_na </br>
 5.3 na_filter </br>
 5.4 isnull() </br>
 5.5 notnull() </br>
 5.6 dropna </br>
+
+## 06. The FillNA Method
+6.1 Value
+6.2 Method
+6.3 Axis
+6.4 Limit
+6.5 Inplace
