@@ -1,11 +1,11 @@
 Flight_ID,Source,Destination,Departure_Time,Passengers,Plane_Type
 PK101,Krakow,Paris,07:45,150,Airbus A320
-PK102,Paris,London,09:15,,Boeing 737
-PK103,London,Berlin,11:00,?,Embraer 190
-PK104,Berlin,Krakow,,180,Boeing 737
-PK105,Krakow,Rome,14:25,170,
+PK102,Paris,London,09:15,N/A,Boeing 737
+PK103,London,Berlin,11:00,N/A,Embraer 190
+PK104,Berlin,Krakow,N/A,180,Boeing 737
+PK105,Krakow,Rome,14:25,170,N/A
 PK106,Rome,London,16:10,155,Airbus A320
-PK107,London,Krakow,18:00,NaN,Airbus A319
+PK107,London,Krakow,18:00,N/A,Airbus A319
 PK108,Krakow,Berlin,20:45,140,Embraer 190
-PK109,Berlin,Paris,,130,Boeing 737
-PK110,Paris,Krakow,23:30,160,?
+PK109,Berlin,Paris,N/A,130,Boeing 737
+PK110,Paris,Krakow,23:30,160,N/A
