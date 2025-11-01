@@ -1,0 +1,11 @@
+House_ID,Location,Area_sqft,Bedrooms,Price_USD
+H1,City Center,1200,3,250000.0
+H2,Suburb,1800,4,320000.0
+H3,Rural,950,,180000.0
+H4,City Center,2000,5,
+H5,Suburb,,3,270000.0
+H6,Rural,1100,2,200000.0
+H7,Suburb,1750,nooo,310000.0
+H8,City Center,1600,4,295000.0
+H9,Rural,not availableo,3,190000.0
+H10,Suburb,1400,2,
