@@ -34,7 +34,7 @@
 
 ## 06. The FillNA Method
 6.1 Value
-6.2 Method
+6.2 Fill Methods
 6.3 Axis
 6.4 Limit
 6.5 Inplace
