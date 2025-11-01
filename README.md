@@ -33,8 +33,8 @@
 5.6 dropna </br>
 
 ## 06. The FillNA Method
-6.1 Value
-6.2 Fill Methods
-6.3 Axis
-6.4 Limit
-6.5 Inplace
+6.1 Value </br>
+6.2 Fill Methods </br>
+6.3 Axis </br>
+6.4 Limit </br>
+6.5 Inplace </br>
