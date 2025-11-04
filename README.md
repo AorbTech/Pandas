@@ -38,3 +38,10 @@
 6.3 Axis </br>
 6.4 Limit </br>
 6.5 Inplace </br>
+
+## 077. Replace Values
+7.1 Replace Value </br>
+7.2 Regex </br>
+7.3 Fill Methods </br>
+7.4 Inplace </br>
+
