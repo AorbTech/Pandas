@@ -45,3 +45,11 @@
 7.3 Fill Methods </br>
 7.4 Inplace </br>
 
+## 08. Interpolate Function
+8.1 Method </br>
+8.2 Limit </br>
+8.3 Inplace </br>
+
+## 10. GroupBy Function
+10.1 GroupBy </br>
+10.2 Set Group </br>
