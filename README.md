@@ -50,6 +50,10 @@
 8.2 Limit </br>
 8.3 Inplace </br>
 
+## 09. Data selection methods
+9.1 loc </br>
+9.2 iloc </br>
+
 ## 10. GroupBy Function
 10.1 GroupBy </br>
 10.2 Set Group </br>
