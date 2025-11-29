@@ -50,6 +50,19 @@
 8.2 Limit </br>
 8.3 Inplace </br>
 
+## 09. Data selection methods
+9.1 loc </br>
+9.2 iloc </br>
+
 ## 10. GroupBy Function
 10.1 GroupBy </br>
 10.2 Set Group </br>
+
+## 11. Merge Function
+11.1 What is Merge Function </br>
+11.2 Merge the Two DataFrames </br>
+11.3 What is 'How' Method </br>
+11.4 Implement Different 'How' Methods </br>
+11.5 Indicator Function</br>
+11.6 Left and Right Indexx </br>
+11.7 Suffixes to Rename Columns</br>
