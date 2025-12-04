@@ -66,3 +66,23 @@
 11.5 Indicator Function</br>
 11.6 Left and Right Indexx </br>
 11.7 Suffixes to Rename Columns</br>
+
+## 12. Concatenation
+12.1 Concat Function </br>
+12.2 Ignore Index </br>
+12.3 Axis </br>
+12.4 Join </br>
+12.5 Keys </br>
+12.6 Sort </br>
+
+## 14. Pivot Table
+14.1 Pivot Table - Index </br>
+14.2 Values </br>
+14.3 Aggfunc </br>
+14.4 Margins </br>
+
+## 15. Melt
+15.1 ID Vars </br>
+15.2 Value Vars </br>
+15.3 Var Name </br>
+15.4 Value Name </br>
