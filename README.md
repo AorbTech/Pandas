@@ -77,12 +77,12 @@
 
 ## 14. Pivot Table
 14.1 Pivot Table - Index </br>
-14.2 Aggfunc </br>
-14.3 Margins </br>
+14.2 Values </br>
+14.3 Aggfunc </br>
+14.4 Margins </br>
 
 ## 15. Melt
-15.1 Frame </br>
-15.2 ID Vars </br>
-15.3 Value Vars </br>
-15.4 Var Name </br>
-15.5 Value Name </br>
+15.1 ID Vars </br>
+15.2 Value Vars </br>
+15.3 Var Name </br>
+15.4 Value Name </br>

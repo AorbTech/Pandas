@@ -1,0 +1,13 @@
+region,product,revenue,units_sold
+North,Alpha,5000,40
+South,Beta,5250,42
+East,Gamma,5500,44
+West,Alpha,5750,46
+North,Beta,6000,48
+South,Gamma,6250,50
+East,Alpha,6500,52
+West,Beta,6750,54
+North,Gamma,7000,56
+South,Alpha,7250,58
+East,Beta,7500,60
+West,Gamma,7750,62
