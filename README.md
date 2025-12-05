@@ -58,7 +58,7 @@
 10.1 GroupBy </br>
 10.2 Set Group </br>
 
-## 11. Merge Function
+## 11. Merge 
 11.1 What is Merge Function </br>
 11.2 Merge the Two DataFrames </br>
 11.3 What is 'How' Method </br>
@@ -74,6 +74,14 @@
 12.4 Join </br>
 12.5 Keys </br>
 12.6 Sort </br>
+
+## 13. Join
+13.1 Join Function </br>
+13.2 Left Join </br>
+13.3 Right Join </br>
+13.4 Inner Join </br>
+13.5 Outer Join </br>
+13.6 Suffix </br>
 
 ## 14. Pivot Table
 14.1 Pivot Table - Index </br>
